@@ -1,0 +1,11 @@
+$ python3 -m venv ~/.virtualenv/infnet
+$ source ~/.virtualenv/infnet/bin/activate
+$ pip install --upgrade pip
+$ pip install psutil
+$ pip freeze > requirements.txt
+
+
+
+https://www.pythonkitchen.com/realtime-cpu-monitor-using-pygame/
+https://www.thepythoncode.com/article/get-hardware-system-information-python
+https://realpython.com/python-gui-tkinter/
